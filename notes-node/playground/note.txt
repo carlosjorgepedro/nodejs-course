@@ -1,0 +1,1 @@
+{"title":"Special Node","body":"Special Body"}

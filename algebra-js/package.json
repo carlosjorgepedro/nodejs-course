@@ -1,0 +1,23 @@
+{
+  "name": "algebra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "@types/should": "^13.0.0",
+    "expect": "^23.6.0",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
+  },
+  "standard": {
+    "env": ["mocha"]
+  }
+}
